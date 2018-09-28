@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="stu.css" ?>
+<students>
+<student>
+<usn>USN:4VV15CS045</usn>
+<name>NAME:KEERTHANA</name>
+<email>EMAIL:keerthanacs97@gmail.com</email>
+<college>COLLEGE:VVCE</college>
+<branch>BRANCH:CSE</branch>
+</student>
+<student>
+<usn>USN:4VV15CS011</usn>
+<name>NAME:AVANTIKA</name>
+<email>EMAIL:avantikaholla@gmail.com</email>
+<college>COLLEGE:VVCE</college>
+<branch>BRANCH:CSE</branch>
+</student>
+<student>
+<usn>USN:4VV15CS027</usn>
+<name>NAME:DIVYA</name>
+<email>EMAIL:divyashreems@gmail.com</email>
+<college>COLLEGE:VVCE</college>
+<branch>BRANCH:CSE</branch>
+</student>
+</students>

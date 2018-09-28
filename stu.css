@@ -1,0 +1,25 @@
+students{
+	 display:block;
+	 margin-left:300px;
+	 background-color:blue;
+}
+usn{
+	display:block;
+	color:red;
+}
+name{
+	display:block;
+	color:yellow;
+}
+email{
+	display:block;
+	color:yellow;
+}
+college{
+    display:block;
+	color:yellow;
+}
+branch{
+	display:block;
+	color:yellow;
+}
